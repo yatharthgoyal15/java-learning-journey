@@ -9,10 +9,13 @@ Learning Java from scratch and progressing towards DSA.
 - System.out.println()
 - String concatenation
 
-## Day 2 - Scanner and User Input
+## Day 2 - Scanner and Basic Operators
+
+### Topics Learned
 - Scanner class
 - nextLine()
 - nextInt()
-- Taking input from user
+- User Input
+- Arithmetic Operators (+, -, *, /, %)
 
 Author: Yatharth

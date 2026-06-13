@@ -33,3 +33,4 @@ Author: Yatharth
 - Positive, Negative or Zero
 - Pass or Fail
 - Find the larger number
+- Votting 

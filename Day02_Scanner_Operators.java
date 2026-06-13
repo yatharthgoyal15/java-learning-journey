@@ -1,10 +1,12 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class Day02_Scanner_Operators {
 
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
+        System.out.print("Enter name:");
+        String name=sc.nextLine();
 
         System.out.print("Enter first number: ");
         int a = sc.nextInt();
@@ -18,6 +20,6 @@ public class Day02_Scanner_Operators {
         System.out.println("Division = " + (a / b));
         System.out.println("Remainder = " + (a % b));
 
-        sc.close();
+        
     }
 }

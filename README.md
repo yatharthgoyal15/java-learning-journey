@@ -19,3 +19,17 @@ Learning Java from scratch and progressing towards DSA.
 - Arithmetic Operators (+, -, *, /, %)
 
 Author: Yatharth
+
+## Day 3 - If Else Statements
+
+### Topics Learned
+- Comparison Operators (==, !=, >, <, >=, <=)
+- if statement
+- if-else statement
+- Taking input using Scanner
+- Decision making in Java
+
+### Practice Problems
+- Positive, Negative or Zero
+- Pass or Fail
+- Find the larger number

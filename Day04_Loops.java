@@ -18,3 +18,13 @@ public class Day04_Loops {
         sc.close();
     }
 }
+
+
+// sum for natural number
+// int sum = 0;
+
+// for (int i = 1; i <= n; i++) {
+//     sum = sum + i;
+// }
+
+// System.out.println("Sum = " + sum);

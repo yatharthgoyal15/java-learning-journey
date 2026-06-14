@@ -34,3 +34,12 @@ Author: Yatharth
 - Pass or Fail
 - Find the larger number
 - Votting 
+
+## Day 4 - Loops
+
+### Topics Learned
+- for loop
+- while loop
+- do-while loop
+- Printing numbers using loops
+- Sum of first n numbers

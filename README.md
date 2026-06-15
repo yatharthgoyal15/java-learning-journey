@@ -43,3 +43,12 @@ Author: Yatharth
 - do-while loop
 - Printing numbers using loops
 - Sum of first n numbers
+
+## Day 5 - Pattern Printing
+
+### Topics Learned
+- Nested loops
+- Square star pattern
+- Triangle star pattern
+- Number patterns
+- Row and column logic

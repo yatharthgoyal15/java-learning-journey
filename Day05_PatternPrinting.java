@@ -12,7 +12,7 @@ public class Day05_PatternPrinting{
     }
 }
 
-//Pattern 2: Right Triangle
+//Pattern 2: Right Triangle pattern
 
 //public class Day05_PatternPrinting {
 

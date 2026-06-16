@@ -44,13 +44,15 @@ public class input{
     
   public static void main(String ar[]){
   Scanner sc=new Scanner(System.in);
-  System.err.print("No dalde:");
-  int no=sc.nextInt();
-  sc.nextLine();   //------->Ye sc.nextline isliye lagte hai kuiki
-  //string vala nextline ki vajh se int ke bad vo automatic \n leleta hai
-
   System.err.print("NAME:");
   String name=sc.nextLine();
-  System.err.println("name is:"+name);
+  //System.err.println("name is:"+name);
+  System.err.print("No dalde:");
+  int no=sc.nextInt();
+  System.err.print("2 No dalde:");
+  float n=sc.nextFloat();
+  //sc.nextLine();   //------->Ye sc.nextline isliye lagte hai kuiki
+  //string vala nextline ki vajh se int ke bad vo automatic \n leleta hai
+
   }
 }

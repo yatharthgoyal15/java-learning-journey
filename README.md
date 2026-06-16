@@ -52,3 +52,4 @@ Author: Yatharth
 - Triangle star pattern
 - Number patterns
 - Row and column logic
+

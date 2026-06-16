@@ -11,7 +11,7 @@ public class Day03_IfElse {
         if(age>=18){
             System.err.println("Eligibale");  
         }
-        else{
+        else if(age<18){
             System.err.println("bachee");
         }
         switch (age) {

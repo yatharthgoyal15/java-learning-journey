@@ -53,3 +53,11 @@ Author: Yatharth
 - Number patterns
 - Row and column logic
 
+## Day 6 - Methods (Functions)
+
+### Topics Learned
+- Methods
+- Method calling
+- Parameters
+- Return values
+- Code reusability

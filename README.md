@@ -62,3 +62,12 @@ Author: Yatharth
 - Return values
 - Code reusability.
     
+## Day 7 - Arrays
+
+### Topics Learned
+- Introduction to Arrays
+- Creating Arrays
+- Array Indexing
+- Taking Array Input
+- Traversing Arrays using Loops
+- Sum and Maximum Element

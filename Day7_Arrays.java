@@ -1,11 +1,25 @@
+import java.util.Scanner;
+
 public class Day7_Arrays {
 
     public static void main(String[] args) {
 
-        int[] marks = {90, 85, 95, 80, 88};
+        Scanner sc = new Scanner(System.in);
 
-        for (int i = 0; i < marks.length; i++) {
-            System.out.println(marks[i]);
+        int[] arr = new int[5];
+
+        System.out.println("Enter 5 numbers:");
+
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = sc.nextInt();
         }
+
+        System.out.println("Numbers are:");
+
+        for (int i = 0; i < arr.length; i++) {
+            System.out.println(arr[i]);
+        }
+
+        
     }
 }

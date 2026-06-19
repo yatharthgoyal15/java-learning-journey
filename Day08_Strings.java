@@ -14,6 +14,6 @@ public class Day08_Strings {
         System.out.println("Uppercase: " + name.toUpperCase());
         System.out.println("Lowercase: " + name.toLowerCase());
 
-        sc.close();
+        
     }
 }

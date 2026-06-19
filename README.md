@@ -71,3 +71,15 @@ Author: Yatharth
 - Taking Array Input
 - Traversing Arrays using Loops
 - Sum and Maximum Element
+
+## Day 8 - Strings
+
+### Topics Learned
+- Introduction to Strings
+- Taking String Input
+- length()
+- charAt()
+- toUpperCase()
+- toLowerCase()
+- equals()
+- Traversing a String using loops

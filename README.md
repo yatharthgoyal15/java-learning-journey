@@ -83,3 +83,13 @@ Author: Yatharth
 - toLowerCase()
 - equals()
 - Traversing a String using loops
+
+## Day 9 - 2D Arrays (Matrices)
+
+### Topics Learned
+- Introduction to 2D Arrays
+- Matrix Representation
+- Taking Matrix Input
+- Traversing Matrices using Nested Loops
+- Sum of Matrix Elements
+- Diagonal Elements

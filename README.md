@@ -93,3 +93,13 @@ Author: Yatharth
 - Traversing Matrices using Nested Loops
 - Sum of Matrix Elements
 - Diagonal Elements
+
+## Day 10 - Classes and Objects
+
+### Topics Learned
+- Introduction to OOP
+- Classes
+- Objects
+- Creating Objects
+- Accessing Variables using Objects
+- Methods inside Classes

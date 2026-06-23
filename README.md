@@ -103,3 +103,12 @@ Author: Yatharth
 - Creating Objects
 - Accessing Variables using Objects
 - Methods inside Classes
+
+## Day 11 - Constructors
+
+### Topics Learned
+- Constructors
+- Default Constructor
+- Parameterized Constructor
+- Constructor Initialization
+- this Keyword

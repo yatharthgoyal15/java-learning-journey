@@ -112,3 +112,13 @@ Author: Yatharth
 - Parameterized Constructor
 - Constructor Initialization
 - this Keyword
+
+## Day 12 - Encapsulation
+
+### Topics Learned
+- Encapsulation
+- private keyword
+- Getter Methods
+- Setter Methods
+- Data Hiding
+- Data Validation

@@ -128,7 +128,6 @@ Author: Yatharth
 ### Topics Learned
 - Static Variables
 - Static Methods
-- Static Blocks
 - Class vs Object Members
 - Object Counter Example
 

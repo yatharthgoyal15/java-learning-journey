@@ -123,3 +123,12 @@ Author: Yatharth
 - Data Hiding
 - Data Validation
 
+## Day 13 - Static Keyword
+
+### Topics Learned
+- Static Variables
+- Static Methods
+- Static Blocks
+- Class vs Object Members
+- Object Counter Example
+

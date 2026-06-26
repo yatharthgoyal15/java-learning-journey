@@ -131,3 +131,12 @@ Author: Yatharth
 - Class vs Object Members
 - Object Counter Example
 
+## Day 14 - Inheritance
+
+### Topics Learned
+- Inheritance
+- extends Keyword
+- Single Inheritance
+- Multilevel Inheritance
+- Hierarchical Inheritance
+- Code Reusability

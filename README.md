@@ -151,3 +151,12 @@ Author: Yatharth
 - super Keyword
 - Compile-Time Polymorphism
 - Run-Time Polymorphism
+
+## Day 16 - Abstraction
+
+### Topics Learned
+- Abstraction
+- Abstract Classes
+- Abstract Methods
+- Method Implementation
+- Code Reusability

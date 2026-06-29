@@ -160,3 +160,12 @@ Author: Yatharth
 - Abstract Methods
 - Method Implementation
 - Code Reusability
+
+## Day 17 - Interfaces
+
+### Topics Learned
+- Interfaces
+- implements Keyword
+- Multiple Interfaces
+- Interface vs Abstract Class
+- Multiple Inheritance using Interfaces

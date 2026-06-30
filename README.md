@@ -169,3 +169,16 @@ Author: Yatharth
 - Multiple Interfaces
 - Interface vs Abstract Class
 - Multiple Inheritance using Interfaces
+
+## Day 18 - Packages, Access Modifiers & Final
+
+### Topics Learned
+- Packages
+- Import Statement
+- public
+- private
+- protected
+- Default Access Modifier
+- final Variable
+- final Method
+- final Class

@@ -183,3 +183,15 @@ Author: Yatharth
 - final Method
 - final Class
 
+## Day 19 - Exception Handling
+
+### Topics Learned
+- Exceptions
+- try
+- catch
+- finally
+- throw
+- throws
+- ArithmeticException
+- ArrayIndexOutOfBoundsException
+

@@ -195,3 +195,16 @@ Author: Yatharth
 - ArithmeticException
 - ArrayIndexOutOfBoundsException
 
+## Day 20 - ArrayList
+
+### Topics Learned
+- Java Collections Framework
+- ArrayList
+- add()
+- get()
+- set()
+- remove()
+- size()
+- Traversing ArrayList
+- Enhanced for loop
+

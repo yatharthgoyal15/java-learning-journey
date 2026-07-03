@@ -208,3 +208,18 @@ Author: Yatharth
 - Traversing ArrayList
 - Enhanced for loop
 
+## Day 21 - LinkedList
+
+### Topics Learned
+- LinkedList
+- add()
+- addFirst()
+- addLast()
+- get()
+- set()
+- remove()
+- removeFirst()
+- removeLast()
+- Traversing LinkedList
+- ArrayList vs LinkedList
+

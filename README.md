@@ -223,3 +223,15 @@ Author: Yatharth
 - Traversing LinkedList
 - ArrayList vs LinkedList
 
+## Day 22 - Stack
+
+### Topics Learned
+- Stack
+- LIFO
+- push()
+- pop()
+- peek()
+- empty()
+- search()
+- Applications of Stack
+

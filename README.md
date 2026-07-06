@@ -235,3 +235,17 @@ Author: Yatharth
 - search()
 - Applications of Stack
 
+## Day 23 - Queue
+
+### Topics Learned
+- Queue
+- FIFO
+- Queue Interface
+- LinkedList Implementation
+- offer()
+- poll()
+- peek()
+- isEmpty()
+- size()
+- Applications of Queue
+

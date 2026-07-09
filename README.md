@@ -249,3 +249,15 @@ Author: Yatharth
 - size()
 - Applications of Queue
 
+## Day 24 - HashSet
+
+### Topics Learned
+- HashSet
+- Unique Elements
+- add()
+- remove()
+- contains()
+- size()
+- isEmpty()
+- Traversing HashSet
+- ArrayList vs HashSet

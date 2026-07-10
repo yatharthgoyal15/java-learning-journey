@@ -261,3 +261,17 @@ Author: Yatharth
 - isEmpty()
 - Traversing HashSet
 - ArrayList vs HashSet
+
+## Day 25 - HashMap
+
+### Topics Learned
+- HashMap
+- Key-Value Pairs
+- put()
+- get()
+- remove()
+- containsKey()
+- containsValue()
+- keySet()
+- values()
+- Traversing HashMap

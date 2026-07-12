@@ -275,3 +275,17 @@ Author: Yatharth
 - keySet()
 - values()
 - Traversing HashMap
+
+## Day 26 - Time Complexity (Big O)
+
+### Topics Learned
+- Time Complexity
+- Space Complexity
+- Big O Notation
+- O(1)
+- O(log n)
+- O(n)
+- O(n log n)
+- O(n²)
+- Ignoring Constants
+- Dominant Terms

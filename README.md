@@ -289,3 +289,13 @@ Author: Yatharth
 - O(n²)
 - Ignoring Constants
 - Dominant Terms
+
+## Day 28 - String Interview Problems
+
+### Topics Learned
+- Reverse String
+- Palindrome Check
+- Count Vowels
+- Count Consonants
+- Count Words
+- Character Frequency using HashMap

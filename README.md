@@ -299,3 +299,15 @@ Author: Yatharth
 - Count Consonants
 - Count Words
 - Character Frequency using HashMap
+
+## Day 29 - Recursion Basics
+
+### Topics Learned
+- Recursion
+- Base Case
+- Recursive Call
+- Print Numbers
+- Sum of N Numbers
+- Factorial
+- Reverse Printing
+- Recursion vs Loop

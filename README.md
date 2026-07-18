@@ -311,3 +311,13 @@ Author: Yatharth
 - Factorial
 - Reverse Printing
 - Recursion vs Loop
+
+## Day 30 - Searching Algorithms
+
+### Topics Learned
+- Searching
+- Linear Search
+- Binary Search
+- O(n)
+- O(log n)
+- Divide and Conquer
